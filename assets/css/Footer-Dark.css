@@ -1,6 +1,6 @@
 .footer-dark {
   padding: 50px 0;
-  color: #f0f9ff;
+  color: black;
   background-color: #282d32;
 }
 
@@ -86,5 +86,9 @@
   opacity: 0.3;
   font-size: 13px;
   margin-bottom: 0;
+}
+
+.underline {
+  text-decoration: underline;
 }
 

@@ -1,6 +1,6 @@
 .photo-gallery {
   color: #313437;
-  background-color: #fff;
+  /*background-color: #fff;*/
 }
 
 .photo-gallery p {
@@ -11,7 +11,7 @@
   font-weight: bold;
   margin-bottom: 40px;
   padding-top: 40px;
-  color: inherit;
+  /*color: inherit;*/
 }
 
 @media (max-width:767px) {
