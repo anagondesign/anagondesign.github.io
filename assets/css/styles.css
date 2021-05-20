@@ -251,14 +251,12 @@ a:not([href]) {
 
 @media (min-width: 300px) {
   #redlabel {
-    font-family: 'Rubik Mono One';
     font-size: 45px;
   }
 }
 
 @media (min-width: 1200px) {
   #redlabel {
-    font-family: 'Rubik Mono One';
     font-size: 80px;
   }
 }

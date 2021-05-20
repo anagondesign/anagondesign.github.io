@@ -16,7 +16,6 @@
 @media (min-width: 300px) {
   #minihead-o {
     font-size: 20px;
-    font-family: 'Oswald', sans-serif;
     padding-top: 5PX;
     padding-bottom: 0px;
     /*font-weight: 600;*/
@@ -67,7 +66,6 @@
 @media (min-width: 1200px) {
   #minihead-o {
     font-size: 30px;
-    font-family: 'Oswald', sans-serif;
     padding-top: 7PX;
     /*font-weight: 600;*/
   }
