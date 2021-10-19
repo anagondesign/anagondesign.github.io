@@ -251,12 +251,14 @@ a:not([href]) {
 
 @media (min-width: 300px) {
   #redlabel {
+    font-family: 'Rubik Mono One';
     font-size: 45px;
   }
 }
 
 @media (min-width: 1200px) {
   #redlabel {
+    font-family: 'Rubik Mono One';
     font-size: 80px;
   }
 }
@@ -787,5 +789,20 @@ img {
 .nomarg {
   margin-left: 0px;
   margin-right: 0px;
+}
+
+* {
+  font-family: 'Bai Jamjuree';
+}
+
+outline {
+  border-width: 1px;
+  border-style: solid;
+}
+
+.outline {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #7d8285;
 }
 
